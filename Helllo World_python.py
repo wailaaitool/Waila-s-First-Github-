@@ -1,7 +1,6 @@
 #this is a hello world file 
 def helloworld():
     print ('Hello World')
-    print ('My name is Waila')
+    print ('My name is Waila Minibot')
 
     helloworld()
-    
